@@ -20,7 +20,3 @@ To run the Calculator React App locally, follow these steps:
 
    ```bash
    git clone https://github.com/your-username/calculator-react-app.git
-
-
-
-https://lekheshwardas.github.io/calculator-react-app/
