@@ -37,3 +37,8 @@ To run the Calculator React App locally, follow these steps:
    npm start
 
 The app will be running at http://localhost:3000.
+
+## Usage
+- Enter numbers and perform calculations by clicking the buttons on the calculator.
+- Use the keyboard for input: numeric keys, arithmetic operators (+, -, *, /), and Enter (for equals).
+- The calculator will display the result of the current expression.
